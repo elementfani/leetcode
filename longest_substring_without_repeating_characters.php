@@ -1,7 +1,5 @@
 <?php
 
-# https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
-
 class Solution
 {
     function lengthOfLongestSubstring($s) {

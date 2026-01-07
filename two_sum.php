@@ -1,7 +1,5 @@
 <?php
 
-# https://leetcode.com/problems/two-sum/submissions/1864445311/
-
 final readonly class Solution
 {
     function twoSum(array $nums, int $target): array {

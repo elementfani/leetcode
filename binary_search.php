@@ -1,7 +1,5 @@
 <?php
 
-# https://leetcode.com/problems/binary-search/description/
-
 final readonly class Solution
 {
     function search(array $nums, int $target, int $from = 0, int $to = null): int {
